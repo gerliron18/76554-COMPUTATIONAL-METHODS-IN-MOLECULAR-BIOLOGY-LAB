@@ -1,0 +1,10 @@
+SOURCE	TARGET	count
+M-X-cells (GHRL)	M-X-cells (GHRL)	9
+M-X-cells (GHRL)	EC-cells (TPH1)	19
+M-X-cells (GHRL)	ECL-cells (HDC,MAOB)	3
+EC-cells (TPH1)	M-X-cells (GHRL)	19
+EC-cells (TPH1)	EC-cells (TPH1)	19
+EC-cells (TPH1)	ECL-cells (HDC,MAOB)	7
+ECL-cells (HDC,MAOB)	M-X-cells (GHRL)	3
+ECL-cells (HDC,MAOB)	EC-cells (TPH1)	7
+ECL-cells (HDC,MAOB)	ECL-cells (HDC,MAOB)	0

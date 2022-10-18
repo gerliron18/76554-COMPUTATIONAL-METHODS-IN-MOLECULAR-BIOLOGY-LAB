@@ -1,0 +1,145 @@
+SOURCE	TARGET	count
+EC-cells SCG2	EC-cells SCG2	55
+EC-cells SCG2	M-X-cells MLN,GHRL	112
+EC-cells SCG2	G-K-cells GAST,GIP	137
+EC-cells SCG2	Enterocytes	6
+EC-cells SCG2	Paneth cells	53
+EC-cells SCG2	EC-cells CHGA,REG4	85
+EC-cells SCG2	Stem cells	5
+EC-cells SCG2	L-cells NTS	118
+EC-cells SCG2	L-cells PYY or D-cells SST	60
+EC-cells SCG2	L-cells	45
+EC-cells SCG2	D-cells SST	30
+EC-cells SCG2	EC-cells TPH1,REG4	59
+M-X-cells MLN,GHRL	EC-cells SCG2	112
+M-X-cells MLN,GHRL	M-X-cells MLN,GHRL	51
+M-X-cells MLN,GHRL	G-K-cells GAST,GIP	139
+M-X-cells MLN,GHRL	Enterocytes	4
+M-X-cells MLN,GHRL	Paneth cells	51
+M-X-cells MLN,GHRL	EC-cells CHGA,REG4	97
+M-X-cells MLN,GHRL	Stem cells	2
+M-X-cells MLN,GHRL	L-cells NTS	125
+M-X-cells MLN,GHRL	L-cells PYY or D-cells SST	64
+M-X-cells MLN,GHRL	L-cells	44
+M-X-cells MLN,GHRL	D-cells SST	28
+M-X-cells MLN,GHRL	EC-cells TPH1,REG4	55
+G-K-cells GAST,GIP	EC-cells SCG2	137
+G-K-cells GAST,GIP	M-X-cells MLN,GHRL	139
+G-K-cells GAST,GIP	G-K-cells GAST,GIP	89
+G-K-cells GAST,GIP	Enterocytes	12
+G-K-cells GAST,GIP	Paneth cells	63
+G-K-cells GAST,GIP	EC-cells CHGA,REG4	121
+G-K-cells GAST,GIP	Stem cells	8
+G-K-cells GAST,GIP	L-cells NTS	151
+G-K-cells GAST,GIP	L-cells PYY or D-cells SST	89
+G-K-cells GAST,GIP	L-cells	65
+G-K-cells GAST,GIP	D-cells SST	41
+G-K-cells GAST,GIP	EC-cells TPH1,REG4	78
+Enterocytes	EC-cells SCG2	6
+Enterocytes	M-X-cells MLN,GHRL	4
+Enterocytes	G-K-cells GAST,GIP	12
+Enterocytes	Enterocytes	0
+Enterocytes	Paneth cells	5
+Enterocytes	EC-cells CHGA,REG4	4
+Enterocytes	Stem cells	0
+Enterocytes	L-cells NTS	7
+Enterocytes	L-cells PYY or D-cells SST	2
+Enterocytes	L-cells	4
+Enterocytes	D-cells SST	1
+Enterocytes	EC-cells TPH1,REG4	1
+Paneth cells	EC-cells SCG2	53
+Paneth cells	M-X-cells MLN,GHRL	51
+Paneth cells	G-K-cells GAST,GIP	63
+Paneth cells	Enterocytes	5
+Paneth cells	Paneth cells	10
+Paneth cells	EC-cells CHGA,REG4	36
+Paneth cells	Stem cells	5
+Paneth cells	L-cells NTS	52
+Paneth cells	L-cells PYY or D-cells SST	20
+Paneth cells	L-cells	17
+Paneth cells	D-cells SST	12
+Paneth cells	EC-cells TPH1,REG4	24
+EC-cells CHGA,REG4	EC-cells SCG2	85
+EC-cells CHGA,REG4	M-X-cells MLN,GHRL	97
+EC-cells CHGA,REG4	G-K-cells GAST,GIP	121
+EC-cells CHGA,REG4	Enterocytes	4
+EC-cells CHGA,REG4	Paneth cells	36
+EC-cells CHGA,REG4	EC-cells CHGA,REG4	27
+EC-cells CHGA,REG4	Stem cells	3
+EC-cells CHGA,REG4	L-cells NTS	98
+EC-cells CHGA,REG4	L-cells PYY or D-cells SST	39
+EC-cells CHGA,REG4	L-cells	34
+EC-cells CHGA,REG4	D-cells SST	18
+EC-cells CHGA,REG4	EC-cells TPH1,REG4	43
+Stem cells	EC-cells SCG2	5
+Stem cells	M-X-cells MLN,GHRL	2
+Stem cells	G-K-cells GAST,GIP	8
+Stem cells	Enterocytes	0
+Stem cells	Paneth cells	5
+Stem cells	EC-cells CHGA,REG4	3
+Stem cells	Stem cells	0
+Stem cells	L-cells NTS	7
+Stem cells	L-cells PYY or D-cells SST	1
+Stem cells	L-cells	3
+Stem cells	D-cells SST	1
+Stem cells	EC-cells TPH1,REG4	1
+L-cells NTS	EC-cells SCG2	118
+L-cells NTS	M-X-cells MLN,GHRL	125
+L-cells NTS	G-K-cells GAST,GIP	151
+L-cells NTS	Enterocytes	7
+L-cells NTS	Paneth cells	52
+L-cells NTS	EC-cells CHGA,REG4	98
+L-cells NTS	Stem cells	7
+L-cells NTS	L-cells NTS	67
+L-cells NTS	L-cells PYY or D-cells SST	75
+L-cells NTS	L-cells	58
+L-cells NTS	D-cells SST	28
+L-cells NTS	EC-cells TPH1,REG4	71
+L-cells PYY or D-cells SST	EC-cells SCG2	60
+L-cells PYY or D-cells SST	M-X-cells MLN,GHRL	64
+L-cells PYY or D-cells SST	G-K-cells GAST,GIP	89
+L-cells PYY or D-cells SST	Enterocytes	2
+L-cells PYY or D-cells SST	Paneth cells	20
+L-cells PYY or D-cells SST	EC-cells CHGA,REG4	39
+L-cells PYY or D-cells SST	Stem cells	1
+L-cells PYY or D-cells SST	L-cells NTS	75
+L-cells PYY or D-cells SST	L-cells PYY or D-cells SST	13
+L-cells PYY or D-cells SST	L-cells	19
+L-cells PYY or D-cells SST	D-cells SST	12
+L-cells PYY or D-cells SST	EC-cells TPH1,REG4	30
+L-cells	EC-cells SCG2	45
+L-cells	M-X-cells MLN,GHRL	44
+L-cells	G-K-cells GAST,GIP	65
+L-cells	Enterocytes	4
+L-cells	Paneth cells	17
+L-cells	EC-cells CHGA,REG4	34
+L-cells	Stem cells	3
+L-cells	L-cells NTS	58
+L-cells	L-cells PYY or D-cells SST	19
+L-cells	L-cells	12
+L-cells	D-cells SST	12
+L-cells	EC-cells TPH1,REG4	27
+D-cells SST	EC-cells SCG2	30
+D-cells SST	M-X-cells MLN,GHRL	28
+D-cells SST	G-K-cells GAST,GIP	41
+D-cells SST	Enterocytes	1
+D-cells SST	Paneth cells	12
+D-cells SST	EC-cells CHGA,REG4	18
+D-cells SST	Stem cells	1
+D-cells SST	L-cells NTS	28
+D-cells SST	L-cells PYY or D-cells SST	12
+D-cells SST	L-cells	12
+D-cells SST	D-cells SST	3
+D-cells SST	EC-cells TPH1,REG4	14
+EC-cells TPH1,REG4	EC-cells SCG2	59
+EC-cells TPH1,REG4	M-X-cells MLN,GHRL	55
+EC-cells TPH1,REG4	G-K-cells GAST,GIP	78
+EC-cells TPH1,REG4	Enterocytes	1
+EC-cells TPH1,REG4	Paneth cells	24
+EC-cells TPH1,REG4	EC-cells CHGA,REG4	43
+EC-cells TPH1,REG4	Stem cells	1
+EC-cells TPH1,REG4	L-cells NTS	71
+EC-cells TPH1,REG4	L-cells PYY or D-cells SST	30
+EC-cells TPH1,REG4	L-cells	27
+EC-cells TPH1,REG4	D-cells SST	14
+EC-cells TPH1,REG4	EC-cells TPH1,REG4	15

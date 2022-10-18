@@ -1,0 +1,4 @@
+	all_sum
+M-X-cells (GHRL)	31
+EC-cells (TPH1)	45
+ECL-cells (HDC,MAOB)	10

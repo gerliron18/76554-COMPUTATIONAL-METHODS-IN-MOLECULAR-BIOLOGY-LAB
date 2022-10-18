@@ -1,0 +1,5 @@
+	all_sum
+NKcells_1	41
+NKcells_0	77
+Tcells	42
+Myeloid	86

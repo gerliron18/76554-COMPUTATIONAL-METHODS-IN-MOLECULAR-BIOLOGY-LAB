@@ -1,0 +1,13 @@
+	all_sum
+EC-cells SCG2	765
+M-X-cells MLN,GHRL	772
+G-K-cells GAST,GIP	993
+Enterocytes	46
+Paneth cells	348
+EC-cells CHGA,REG4	605
+Stem cells	36
+L-cells NTS	857
+L-cells PYY or D-cells SST	424
+L-cells	340
+D-cells SST	200
+EC-cells TPH1,REG4	418
